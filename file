@@ -2,3 +2,6 @@ Hi ..
 learning git
 This error occurs because GitHub no longer supports password authentication for HTTPS connections. Instead, you need to use Personal Access Tokens (PAT) or SSH for authentication. Here’s how you can resolve the issue:
 
+working die
+staging area 
+git repo
